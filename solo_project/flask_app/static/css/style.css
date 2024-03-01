@@ -1,0 +1,19 @@
+*{
+    margin: 20px;
+    padding: 0;
+}
+
+body {
+    /* align-items: center; */
+    /* min-height: 100vh; */
+    background-color: rgb(171, 141, 198);
+    font-size: 15px;
+}
+
+.big_container{
+    border: 2px solid whitesmoke;
+}
+
+.outer_table{
+    border: 2px solid red;
+}
